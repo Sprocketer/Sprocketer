@@ -34,7 +34,7 @@
 </tr>
 
 <tr>
-<td>
+<td width=50%>
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sprocketer)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs)
 
