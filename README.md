@@ -1,7 +1,7 @@
 <table>
   
 <tr>
-<td colspan="2">
+<td colspan="2" width=9000px>
   
 # [⚡⚡⚡](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs)
 
@@ -32,7 +32,7 @@
 <table>
   
 <tr>
-<td colspan="2">
+<td colspan="2" width=9000px>
   
 # Contribution Stats
 
