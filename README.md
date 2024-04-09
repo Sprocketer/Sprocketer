@@ -36,12 +36,12 @@
 <tr>
 <td width=50%>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sprocketer)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs)
+![](https://raw.githubusercontent.com/Sprocketer/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Sprocketer/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/Sprocketer/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Sprocketer/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 </td>
 <td>
 
-![](https://raw.githubusercontent.com/Sprocketer/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Sprocketer/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/Sprocketer/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Sprocketer/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sprocketer)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs)
 
 </td>
 </tr>
