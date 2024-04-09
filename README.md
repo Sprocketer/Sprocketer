@@ -11,23 +11,17 @@
 <tr>
 <td>
 
-## [Profile -> Gravatar](https://gravatar.com/Sprocketer)
+## [Profile ⇒ Gravatar](https://gravatar.com/Sprocketer)
   
 </td>
 <td>
 
-## [Contact Me -> Noteforms](https://noteforms.com/forms/contact-sprocketer-tu9cvr)
+## [Contact Me ⇒ Noteforms](https://noteforms.com/forms/contact-sprocketer-tu9cvr)
 
 </td>
 </tr>
 
 </table>
-
-
-
-
-
-
 
 <table>
   
