@@ -9,7 +9,7 @@
 </tr>
 
 <tr>
-<td>
+<td width=50%>
 
 ## [Profile ⇒ Gravatar](https://gravatar.com/Sprocketer)
   
