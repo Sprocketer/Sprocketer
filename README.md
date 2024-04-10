@@ -28,7 +28,7 @@
 <tr>
 <td colspan="2" width=9000px align=center>
   
-# Contribution Stats
+# 🔥 Contribution Stats 🔥
 
 </td>
 </tr>
@@ -49,7 +49,7 @@
 <tr>
 <td colspan="2" align=center>
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sprocketer&theme=github-compact&radius=10&area=true&color=c9d1d9&title_color=c9d1d9&point=8a5cf5&line=690000&custom_title=🔥%20Sprocketer's%20Contribution%20Graph%20🔥&area_color=ffff00)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sprocketer&theme=github-compact&radius=10&area=true&color=c9d1d9&title_color=c9d1d9&point=8a5cf5&line=690000&custom_title=Sprocketer's%20Contribution%20Graph&area_color=ffff00)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs)
 
 </td>
 </tr>
