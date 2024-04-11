@@ -11,7 +11,7 @@
 <tr>
 <td width=50% align=center>
 
-# [Profile ⇒ Bento](https://bento.me/sprocketer)
+# [Profile ⇒ Bento](https://bento.me/Sprocketer)
 
 # [Profile ⇒ Gravatar](https://gravatar.com/Sprocketer)
   
