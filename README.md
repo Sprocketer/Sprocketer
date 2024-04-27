@@ -11,20 +11,20 @@
 <tr>
 <td width=50% align=center>
 
-# [Profile ⇒ Bento](https://bento.me/sprocketer)
+# [Bento](https://bento.me/sprocketer)
 
-# [Profile ⇒ Gravatar](https://gravatar.com/sprocketer)
+# [Gravatar](https://gravatar.com/sprocketer)
 
-# [Profile ⇒ Reddit](https://reddit.com/users/sprocketerdev)
+# [Reddit](https://reddit.com/users/sprocketerdev)
   
 </td>
 <td align=center>
 
-# [Contact Me ⇒ Noteforms](https://noteforms.com/forms/contact-sprocketer-tu9cvr)
+# [Contact Me](https://noteforms.com/forms/contact-sprocketer-tu9cvr)
 
-# [Contact Me ⇒ Discord](https://discord.com/users/797270934075605015)
+# [Discord](https://discord.com/users/797270934075605015)
 
-# [Contact Me ⇒ Email](mailto:sprocketerdev@gmail.com)
+# [Email](mailto:sprocketerdev@gmail.com)
 
 </td>
 </tr>
