@@ -42,11 +42,13 @@
 </tr>
 
 <tr>
+<!---
 <td width=50% align=center>
 
 ![](https://raw.githubusercontent.com/Sprocketer/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Sprocketer/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/Sprocketer/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Sprocketer/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 </td>
+-->
 <td align=center>
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sprocketer)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs)
