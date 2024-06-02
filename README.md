@@ -1,15 +1,7 @@
 <table>
-  
-<tr>
-<td colspan="2" width=9000px align=center>
-  
-# ⚡ Sprocketer ⚡
-
-</td>
-</tr>
 
 <tr>
-<td width=50% align=center>
+<td width=550px align=center>
 
 ### [Bento](https://bento.me/sprocketer)
 
@@ -18,7 +10,7 @@
 ### [Reddit](https://reddit.com/users/sprocketerdev)
   
 </td>
-<td align=center>
+<td width=550px align=center>
 
 ### [Contact Me](https://noteforms.com/forms/contact-sprocketer-tu9cvr)
 
@@ -32,14 +24,6 @@
 </table>
 
 <table>
-  
-<tr>
-<td colspan="2" width=9000px align=center>
-  
-# 🔥 Contribution Stats 🔥
-
-</td>
-</tr>
 
 <tr>
 <!---
