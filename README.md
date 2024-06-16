@@ -12,7 +12,7 @@
 </td>
 <td width=550px align=center>
 
-### [Contact Me](https://noteforms.com/forms/contact-sprocketer-tu9cvr)
+### [Contact Form](https://noteforms.com/forms/contact-sprocketer-tu9cvr)
 
 ### [Discord](https://discord.com/users/797270934075605015)
 
