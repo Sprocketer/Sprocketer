@@ -3,20 +3,18 @@
 <tr>
 <td width=550px align=center>
 
-### [Bento](https://bento.me/sprocketer)
-
-### [Gravatar](https://gravatar.com/sprocketer)
-
-### [Reddit](https://reddit.com/users/sprocketerdev)
+### [Email](mailto:sprocketerdev@gmail.com)
   
 </td>
 <td width=550px align=center>
 
-### [Contact Form](https://noteforms.com/forms/contact-sprocketer-tu9cvr)
+### [Reddit](https://reddit.com/users/sprocketerdev)
+
+</td>
+
+<td width=550px align=center>
 
 ### [Discord](https://discord.com/users/797270934075605015)
-
-### [Email](mailto:sprocketerdev@gmail.com)
 
 </td>
 </tr>
