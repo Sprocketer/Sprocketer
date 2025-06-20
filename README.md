@@ -3,11 +3,6 @@
 <tr>
 <td width=550px align=center>
 
-### [Email](mailto:sprocketerdev@gmail.com)
-  
-</td>
-<td width=550px align=center>
-
 ### [Reddit](https://reddit.com/users/sprocketerdev)
 
 </td>
@@ -18,10 +13,6 @@
 
 </td>
 </tr>
-
-</table>
-
-<table>
 
 <tr>
 <td width=50% align=center>
